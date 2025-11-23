@@ -52,3 +52,34 @@ These are suggested for maintenance. Adjust proportions for special goals as nee
  Customization
 
 To tailor recommendations for specific goals (muscle building, weight loss), modify the macronutrient ratios or calorie expectations in the script.
+Features
+
+BMI Calculation (Body Mass Index)
+BMI Category Classification
+Daily Calorie Needs Calculation (using Mifflin-St Jeor Equation)
+Personalized Fitness Recommendations
+Activity Level Based Calorie Adjustment
+Modular & Clean Function-Based Design
+Technologies Used
+
+Python 3
+Standard Library (no external dependencies)
+How to Run
+
+Install Python 3.8+
+Run the script: python main.py
+Enter user details as prompted.
+Testing Instructions
+
+Test with different BMI ranges (underweight, healthy, overweight, obese)
+Validate calorie outputs with online calorie calculators
+Test gender variations
+Test each activity level (1–5)
+Screenshots
+<img width="1522" height="1125" alt="Screenshot 2025-11-23 225752" src="https://github.com/user-attachments/assets/49c230f0-e469-46a8-bcbe-1c80f85fd133" />
+<img width="1602" height="1132" alt="Screenshot 2025-11-23 225806" src="https://github.com/user-attachments/assets/5334766c-2a91-4648-b413-ed758a203543" />
+<img width="1548" height="1110" alt="Screenshot 2025-11-23 225819" src="https://github.com/user-attachments/assets/76200020-ff70-442f-a527-dd9821229a1a" />
+
+
+
+
